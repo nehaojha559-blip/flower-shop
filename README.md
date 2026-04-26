@@ -1,2 +1,1 @@
-# flower-shop
-A web development project for an online flower shop. This repository contains the source code for the 'flowershop.com' website, featuring a clean layout and floral product showcases. Currently optimized for desktop viewing.
+A web-based admission form designed with a clean and user-friendly interface. This project features organized input fields for student registration, course selection, and contact details, ensuring a smooth enrollment process for users
